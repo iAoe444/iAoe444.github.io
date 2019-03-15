@@ -1,8 +1,14 @@
-# 5. 系统安全分析与设计
+---
+title: 5. 系统安全分析与设计
+categories:
+- 笔记
+tags:
+- 软考笔记
+---
 
 > 190311
 
-## 5.01 信息系统安全属性
+## 信息系统安全属性
 
 * 安全属性
   * 保密性
@@ -21,52 +27,52 @@
   * 不可抵赖性——发过有签名，就不能说没发过
     * 数字签名
 
-## 5.02 加密技术
+## 加密技术
 
-### 1. 对称加密技术
+### 对称加密技术
 
-![1552271144483](C:\Users\iAoe\Desktop\assets\1552271144483.png)
+![1552271144483](/assets/images/RuanKao_note/1552271144483.png)
 
 * 常用对称密钥加密算法
   * DES：替换（把一些信息通过密码表更改成另外一些信息）+ 移位
   * 3DES：3重DES
 
-### 2. 非对称加密技术
+### 非对称加密技术
 
-![1552271786828](C:\Users\iAoe\Desktop\assets\1552271786828.png)
+![1552271786828](/assets/images/RuanKao_note/1552271786828.png)
 
 因为使用非对称加密技术，大的数据用对称加密，小的数据用非对称
 
-## 5.03 信息摘要
+## 信息摘要
 
-![1552271937450](C:\Users\iAoe\Desktop\assets\1552271937450.png)
+![1552271937450](/assets/images/RuanKao_note/1552271937450.png)
 
 * 信息摘要使用的算法是单向Hash函数，文件到码可以，码到文件不行，所以不能用于加密
 * MD5和SHA是常用的消息摘要算法
 
-## 5.04 数字签名
+## 数字签名
 
-![1552272661080](C:\Users\iAoe\Desktop\assets\1552272661080.png)
+![1552272661080](/assets/images/RuanKao_note/1552272661080.png)
 
-## 5.05 数字信封与PGP
+## 数字信封与PGP
 
 * 数字信封
 
-  ![1552289457478](C:\Users\iAoe\Desktop\assets\1552289457478.png)
+  ![1552289457478](/assets/images/RuanKao_note/1552289457478.png)
 
 * PGP协议
 
-  ![1552290288966](C:\Users\iAoe\Desktop\assets\1552290288966.png)
+  ![1552290288966](/assets/images/RuanKao_note/1552290288966.png)
 
 * 练习题
 
-  ![1552290299281](C:\Users\iAoe\Desktop\assets\1552290299281.png)
+  ![1552290299281](/assets/images/RuanKao_note/1552290299281.png)
 
   
 
-## 5.06 各个网络层次的安全保障
+## 各个网络层次的安全保障
 
-![1552290422193](C:\Users\iAoe\Desktop\assets\1552290422193.png)
+![1552290422193](/assets/images/RuanKao_note/1552290422193.png)
 
 * 物理层
   * 屏蔽——比如WIFI网络的屏蔽，外面接收不到WIFI
@@ -86,14 +92,14 @@
 * 传输、会话、表示、应用层
   * SSL
 
-## 5.07 网络安全
+## 网络安全
 
-### 1. 威胁类型
+### 威胁类型
 
-![1552305905445](C:\Users\iAoe\Desktop\assets\1552305905445.png)
+![1552305905445](/assets/images/RuanKao_note/1552305905445.png)
 
-![1552306060446](C:\Users\iAoe\Desktop\assets\1552306060446.png)
+![1552306060446](/assets/images/RuanKao_note/1552306060446.png)
 
-### 2. 防火墙
+### 防火墙
 
-![1552306866342](C:\Users\iAoe\Desktop\assets\1552306866342.png)
+![1552306866342](/assets/images/RuanKao_note/1552306866342.png)
