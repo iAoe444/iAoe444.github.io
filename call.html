@@ -14,7 +14,8 @@ function getURl(name) {
     var r = window.location.search.substr(1).match(reg);
     if(r!=null) return decodeURI(r[2].toString()); return null;  
 }
-    document.getElementById('mobile').setAttribute('href','tel:'+getURl('tel'));
+document.getElementById('mobile').setAttribute('href','tel:'+getURl('tel'));
+document.getElementById('mobile').click();
 </script>
 </body>
 </html>
