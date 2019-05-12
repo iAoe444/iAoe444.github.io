@@ -130,16 +130,16 @@ tags:
 
 ## 参考链接
 
-[Ubuntu 14/16 下的 Laravel LNMP 线上环境自动部署脚本 | Laravel China 社区 - 高品质的 Laravel 开发者社区](https://learnku.com/laravel/t/2814/ubuntu-1416-under-the-laravel-lnmp-online-environment-automatically-deploy-scripts)
+[Ubuntu 14/16 下的 Laravel LNMP 线上环境自动部署脚本](https://learnku.com/laravel/t/2814/ubuntu-1416-under-the-laravel-lnmp-online-environment-automatically-deploy-scripts)
 
-[轻松部署 Laravel 应用 | 《02. 一键脚本》 | Laravel China 社区 - 高品质的 Laravel 开发者社区](https://learnku.com/articles/24918)
+[轻松部署 Laravel 应用-《02. 一键脚本》](https://learnku.com/articles/24918)
 
 [使用Log分析Laravel的Internal Server Error（code 500） - 简书](https://www.jianshu.com/p/24138be4d9ed)
 
 [Laravel 出现 No application encryption key has been specified. - Hseven779的博客 - CSDN博客](https://blog.csdn.net/hseven779/article/details/78743713)
 
-[laraval 放到 nginx 服务器上之后，运行报 500 错误 | Laravel China 社区 - 高品质的 Laravel 开发者社区](https://learnku.com/laravel/t/4420/laraval-on-the-nginx-server-running-500-error)
+[laraval 放到 nginx 服务器上之后，运行报 500 错误](https://learnku.com/laravel/t/4420/laraval-on-the-nginx-server-running-500-error)
 
-[LNMP 环境部署 Laravel 项目的一些总结 | Laravel China 社区 - 高品质的 Laravel 开发者社区](https://learnku.com/articles/18322)
+[LNMP 环境部署 Laravel 项目的一些总结](https://learnku.com/articles/18322)
 
 [php - How to fix Error: laravel.log could not be opened? - Stack Overflow](https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened)
