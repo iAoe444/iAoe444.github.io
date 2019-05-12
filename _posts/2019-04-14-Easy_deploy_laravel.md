@@ -1,4 +1,10 @@
-# 阿里云部署Laravel
+---
+title: 阿里云简易部署laravel项目
+categories:
+- 教程
+tags:
+- laravel
+---
 
 > 因为自己在部署Laravel系统上遇到了很多坑，所以写下一篇教程来记录下阿里云部署Laravel的步骤，这里我使用的是阿里云的`轻量服务器`，系统是`ubuntu16.04`，Laravel的版本是`5.8`。
 >
