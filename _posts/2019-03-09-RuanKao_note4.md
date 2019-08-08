@@ -1,7 +1,7 @@
 ---
 title: 4. 计算机网络
 categories:
-- 笔记
+- note
 tags:
 - 软考笔记
 ---

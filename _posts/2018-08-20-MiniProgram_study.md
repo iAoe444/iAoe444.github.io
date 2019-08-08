@@ -1,7 +1,7 @@
 ---
 title: 小程序学习笔记
 categories:
-- 笔记
+- note
 tags:
 - 小程序
 ---

@@ -1,7 +1,7 @@
 ---
 title: 极路由1s锐捷配置教程
 categories:
-- 教程
+- tutorial
 tags:
 - 路由器
 ---

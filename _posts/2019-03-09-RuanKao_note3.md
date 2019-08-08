@@ -1,7 +1,7 @@
 ---
 title: 3. 数据库系统
 categories:
-- 笔记
+- note
 tags:
 - 软考笔记
 ---

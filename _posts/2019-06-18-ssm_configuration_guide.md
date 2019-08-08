@@ -1,7 +1,7 @@
 ---
 title: ssm-环境配置教程
 categories:
-- 教程
+- tutorial
 tags:
 - ssm
 ---

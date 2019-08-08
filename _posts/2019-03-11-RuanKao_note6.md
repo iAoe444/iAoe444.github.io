@@ -1,7 +1,7 @@
 ---
 title: 6. 数据结构与算法基础
 categories:
-- 笔记
+- note
 tags:
 - 软考笔记
 ---

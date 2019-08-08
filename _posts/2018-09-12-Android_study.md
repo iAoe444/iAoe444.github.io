@@ -1,7 +1,7 @@
 ---
-title: 第一次Android作业笔记
+title: Android作业笔记
 categories:
-- 笔记
+- note
 tags:
 - 安卓
 ---

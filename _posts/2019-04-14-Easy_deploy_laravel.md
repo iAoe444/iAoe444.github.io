@@ -1,7 +1,7 @@
 ---
 title: 阿里云简易部署laravel项目
 categories:
-- 教程
+- tutorial
 tags:
 - laravel
 ---

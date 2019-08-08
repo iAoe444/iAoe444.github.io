@@ -1,7 +1,7 @@
 ---
 title: 2.操作系统基本原理
 categories:
-- 笔记
+- note
 tags:
 - 软考笔记
 ---

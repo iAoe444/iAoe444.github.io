@@ -1,7 +1,7 @@
 ---
 title: 5. 系统安全分析与设计
 categories:
-- 笔记
+- note
 tags:
 - 软考笔记
 ---
