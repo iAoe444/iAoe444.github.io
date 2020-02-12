@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 山有木兮枝有莎
+title: 梵天的梦
 subtitle:
 description:
 author: iAoe
@@ -702,6 +702,7 @@ vendors:
   # https://github.com/ethantw/Han
   han:
 
+beian: 粤ICP备18103362号
 
 # Assets
 css: assets/css
