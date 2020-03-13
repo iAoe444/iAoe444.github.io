@@ -31,7 +31,7 @@ tags:
 
 ### 对称加密技术
 
-![1552271144483](/assets/images/RuanKao_note/1552271144483.png)
+![1552271144483](https://assest.iaoe.xyz/img/1552271144483.png)
 
 * 常用对称密钥加密算法
   * DES：替换（把一些信息通过密码表更改成另外一些信息）+ 移位
@@ -39,40 +39,40 @@ tags:
 
 ### 非对称加密技术
 
-![1552271786828](/assets/images/RuanKao_note/1552271786828.png)
+![1552271786828](https://assest.iaoe.xyz/img/1552271786828.png)
 
 因为使用非对称加密技术，大的数据用对称加密，小的数据用非对称
 
 ## 信息摘要
 
-![1552271937450](/assets/images/RuanKao_note/1552271937450.png)
+![1552271937450](https://assest.iaoe.xyz/img/1552271937450.png)
 
 * 信息摘要使用的算法是单向Hash函数，文件到码可以，码到文件不行，所以不能用于加密
 * MD5和SHA是常用的消息摘要算法
 
 ## 数字签名
 
-![1552272661080](/assets/images/RuanKao_note/1552272661080.png)
+![1552272661080](https://assest.iaoe.xyz/img/1552272661080.png)
 
 ## 数字信封与PGP
 
 * 数字信封
 
-  ![1552289457478](/assets/images/RuanKao_note/1552289457478.png)
+  ![1552289457478](https://assest.iaoe.xyz/img/1552289457478.png)
 
 * PGP协议
 
-  ![1552290288966](/assets/images/RuanKao_note/1552290288966.png)
+  ![1552290288966](https://assest.iaoe.xyz/img/1552290288966.png)
 
 * 练习题
 
-  ![1552290299281](/assets/images/RuanKao_note/1552290299281.png)
+  ![1552290299281](https://assest.iaoe.xyz/img/1552290299281.png)
 
   
 
 ## 各个网络层次的安全保障
 
-![1552290422193](/assets/images/RuanKao_note/1552290422193.png)
+![1552290422193](https://assest.iaoe.xyz/img/1552290422193.png)
 
 * 物理层
   * 屏蔽——比如WIFI网络的屏蔽，外面接收不到WIFI
@@ -96,9 +96,9 @@ tags:
 
 ### 威胁类型
 
-![1552305905445](/assets/images/RuanKao_note/1552305905445.png)
+![1552305905445](https://assest.iaoe.xyz/img/1552305905445.png)
 
-![1552306060446](/assets/images/RuanKao_note/1552306060446.png)
+![1552306060446](https://assest.iaoe.xyz/img/1552306060446.png)
 
 ### 防火墙
 

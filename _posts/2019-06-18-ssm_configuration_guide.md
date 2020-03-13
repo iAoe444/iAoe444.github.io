@@ -27,21 +27,21 @@ tags:
    > maven下载地址[Maven – Download Apache Maven](http://maven.apache.org/download.cgi)
 
    windows ->preferences->Maven->installations->add一个新的maven就行
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g45dtcunozj30h9058a9x.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g45dtcunozj30h9058a9x.jpg)
 
 3. 创建maven工程
 
    file->new->others->搜索maven->选择maven project->next->选择下图的选项
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g45dvrhorkj30he0cj0sz.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g45dvrhorkj30he0cj0sz.jpg)
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g45dweuhsfj30hn0cvgln.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g45dweuhsfj30hn0cvgln.jpg)
 
    点击finish就行，接下来会maven会下载相关的配置文件，如果觉得下不动，可能就要科学上网了
 
 4. 修复错误
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g45dzt3wqlj30rd04lt8p.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g45dzt3wqlj30rd04lt8p.jpg)
 
    * 修复第一个error，需要将tomcat的一个包导入
 
@@ -89,11 +89,11 @@ tags:
 
 5. 新建java resources文件夹`src/tests/resources`
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g47d55pc0qj308s05f748.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g47d55pc0qj308s05f748.jpg)
 
    * 右击项目->properties->java build path->source->选择我们新建的文件夹->输入target/classes->apply
 
-     ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g47de23a9xj30dq05umx5.jpg)
+     ![](https://assest.iaoe.xyz/img/006bBmqIgy1g47de23a9xj30dq05umx5.jpg)
 
 6. 补充
 
@@ -624,7 +624,7 @@ jdbc.password=123456
 
 5. 验证成功画面
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4cbij3gt3j312l0pxdhh.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4cbij3gt3j312l0pxdhh.jpg)
 
 ### 验证service
 
@@ -968,11 +968,11 @@ public class AreaController {
 
 控制台输出的信息如下
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4d60vbp1gj30ob07zt9d.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g4d60vbp1gj30ob07zt9d.jpg)
 
 日志文件输出如下
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4d61rtwkdj30iv04iaa4.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g4d61rtwkdj30iv04iaa4.jpg)
 
 ## web.xml
 
@@ -1012,5 +1012,8 @@ datetime支持从0000年到9999年，而timestamp支持从1970年开始，而tim
 
 ```sql
 alter table tb_wechat_auth add unique index(open_id)
+```
+
+id)
 ```
 

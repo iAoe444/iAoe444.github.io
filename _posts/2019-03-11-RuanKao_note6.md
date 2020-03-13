@@ -16,19 +16,19 @@ tags:
 
 ### 数据逻辑结构
 
-![1552485507680](/assets/images/RuanKao_note/1552485507680.png)
+![1552485507680](https://assest.iaoe.xyz/img/1552485507680.png)
 
 ## 数组与矩阵
 
 ### 数组
 
- ![1552484883861](/assets/images/RuanKao_note/1552484883861.png)
+ ![1552484883861](https://assest.iaoe.xyz/img/1552484883861.png)
 
 ### 稀疏矩阵
 
 > 在一些矩阵中，可能有很多值都为零或者为空，所以有时候不用存储那么多的数据，可以用数组来存储
 
-![1552485295951](/assets/images/RuanKao_note/1552485295951.png)
+![1552485295951](https://assest.iaoe.xyz/img/1552485295951.png)
 
 
 
@@ -40,40 +40,40 @@ tags:
 
 * 链式存储结构——链表
 
-![1552485765288](/assets/images/RuanKao_note/1552485765288.png)
+![1552485765288](https://assest.iaoe.xyz/img/1552485765288.png)
 
 ### 链表的基本操作
 
-![1552486056587](/assets/images/RuanKao_note/1552486056587.png)
+![1552486056587](https://assest.iaoe.xyz/img/1552486056587.png)
 
 ### 顺序存储与链式存储对比
 
-![1552486611280](/assets/images/RuanKao_note/1552486611280.png)
+![1552486611280](https://assest.iaoe.xyz/img/1552486611280.png)
 
 * 存储密度：由于链表还要有的记录下一个数据的指针，所以存储密度要小点
 * 查找和读运算，查找是找到叫什么的数据，读是找到第几位的数据
 
 ### 队列与栈
 
-![1552487604162](/assets/images/RuanKao_note/1552487604162.png)
+![1552487604162](https://assest.iaoe.xyz/img/1552487604162.png)
 
 ### 环形队列
 
-![1552487747128](/assets/images/RuanKao_note/1552487747128.png)
+![1552487747128](https://assest.iaoe.xyz/img/1552487747128.png)
 
 一般来说，为了避免队满时队头等于队尾与队空的情况相同，所以会不存最后一个元素，所以队满时的条件就变成了上图中的情况，
 
 ## 广义表
 
-![1552488564593](/assets/images/RuanKao_note/1552488564593.png)
+![1552488564593](https://assest.iaoe.xyz/img/1552488564593.png)
 
-![1552488576344](/assets/images/RuanKao_note/1552488576344.png)
+![1552488576344](https://assest.iaoe.xyz/img/1552488576344.png)
 
 ## 树与二叉树⭐
 
 ### 基本概念
 
-![1552488962423](/assets/images/RuanKao_note/1552488962423.png)
+![1552488962423](https://assest.iaoe.xyz/img/1552488962423.png)
 
 * 节点的度
 
@@ -113,7 +113,7 @@ tags:
 
 ### 满二叉树和完全二叉树
 
-![1552489165966](/assets/images/RuanKao_note/1552489165966.png)
+![1552489165966](https://assest.iaoe.xyz/img/1552489165966.png)
 
 * 满二叉树
 
@@ -125,33 +125,33 @@ tags:
 
 ### 二叉树的重要特性
 
-![1552489577724](/assets/images/RuanKao_note/1552489577724.png)
+![1552489577724](https://assest.iaoe.xyz/img/1552489577724.png)
 
 ### 二叉树的遍历
 
-![1552565615829](/assets/images/RuanKao_note/1552565615829.png)
+![1552565615829](https://assest.iaoe.xyz/img/1552565615829.png)
 
 ### 反向构造二叉树
 
-![1552566402652](/assets/images/RuanKao_note/1552566402652.png)
+![1552566402652](https://assest.iaoe.xyz/img/1552566402652.png)
 
 ###  树转二叉树
 
-![1552566568234](/assets/images/RuanKao_note/1552566568234.png)
+![1552566568234](https://assest.iaoe.xyz/img/1552566568234.png)
 
 ### 查找二叉树
 
 * 基本性质
 
-  ![1552567046804](/assets/images/RuanKao_note/1552567046804.png)
+  ![1552567046804](https://assest.iaoe.xyz/img/1552567046804.png)
 
 * 插入结点
 
-  ![1552567070352](/assets/images/RuanKao_note/1552567070352.png)
+  ![1552567070352](https://assest.iaoe.xyz/img/1552567070352.png)
 
 * 删除结点
 
-  ![1552567084168](/assets/images/RuanKao_note/1552567084168.png)
+  ![1552567084168](https://assest.iaoe.xyz/img/1552567084168.png)
 
   有两个子结点的情况，如89，找到89中最大的元素(用中序遍历取最后一个元素)，把89换成56，删掉原来的56，56被删掉，把51连到48中
 
@@ -159,7 +159,7 @@ tags:
 
 > 实现无损压缩
 
-![1552570306958](/assets/images/RuanKao_note/1552570306958.png)
+![1552570306958](https://assest.iaoe.xyz/img/1552570306958.png)
 
 * 基本概念
 
@@ -170,11 +170,11 @@ tags:
 
 * 构造哈夫曼树的效果是树的带权路径长度最小
 
-  ![1552570322623](/assets/images/RuanKao_note/1552570322623.png)
+  ![1552570322623](https://assest.iaoe.xyz/img/1552570322623.png)
 
 * 例题
 
-  ![1552570354090](/assets/images/RuanKao_note/1552570354090.png)
+  ![1552570354090](https://assest.iaoe.xyz/img/1552570354090.png)
 
 ### 线索二叉树
 
@@ -182,7 +182,7 @@ tags:
 
 * 左边的指针指向之前遍历的元素, 右边的指针指向后面遍历的元素
 
-![1552571001244](/assets/images/RuanKao_note/1552571001244.png)
+![1552571001244](https://assest.iaoe.xyz/img/1552571001244.png)
 
 ### 平衡二叉树
 
@@ -194,11 +194,11 @@ tags:
 
 * 无向图
 
-  ![1552571691856](/assets/images/RuanKao_note/1552571691856.png)
+  ![1552571691856](https://assest.iaoe.xyz/img/1552571691856.png)
 
 * 有向图
 
-  ![1552571715751](/assets/images/RuanKao_note/1552571715751.png)
+  ![1552571715751](https://assest.iaoe.xyz/img/1552571715751.png)
 
 * 完全图
 
@@ -208,19 +208,19 @@ tags:
 
 * 邻接矩阵
 
-![1552571850796](/assets/images/RuanKao_note/1552571850796.png)
+![1552571850796](https://assest.iaoe.xyz/img/1552571850796.png)
 
 * 邻接表
 
-  ![1552572027758](/assets/images/RuanKao_note/1552572027758.png)
+  ![1552572027758](https://assest.iaoe.xyz/img/1552572027758.png)
 
 ###   3. 图的遍历
 
-![1552572669147](/assets/images/RuanKao_note/1552572669147.png)
+![1552572669147](https://assest.iaoe.xyz/img/1552572669147.png)
 
 ### 拓扑排序
 
-![1552573067779](/assets/images/RuanKao_note/1552573067779.png)
+![1552573067779](https://assest.iaoe.xyz/img/1552573067779.png)
 
 ### 图的最小生成树
 
@@ -228,7 +228,7 @@ tags:
 
 #### 1) 普里姆算法
 
-![1552573605326](/assets/images/RuanKao_note/1552573605326.png)
+![1552573605326](https://assest.iaoe.xyz/img/1552573605326.png)
 
 * 从A出发,找其他未遍历的点的最小路径--100,构成A,B集合
 * 从A,B出发,找其他未遍历的点的最小路径--200,构成A,B,E集合
@@ -248,17 +248,17 @@ tags:
 
   * 时间复杂度找最大的
 
-    ![1552639951493](/assets/images/RuanKao_note/1552639951493.png)
+    ![1552639951493](https://assest.iaoe.xyz/img/1552639951493.png)
 
   * log2n是在查询二叉树的时候要到，n为结点的数量
 
   * 常用的对算法执行所需时间的时间复杂度
 
-    ![1552640020450](/assets/images/RuanKao_note/1552640020450.png)
+    ![1552640020450](https://assest.iaoe.xyz/img/1552640020450.png)
 
 * 空间复杂度
 
-  ![1552640035931](/assets/images/RuanKao_note/1552640035931.png)
+  ![1552640035931](https://assest.iaoe.xyz/img/1552640035931.png)
 
 
 
@@ -268,7 +268,7 @@ tags:
 
 * 顺序查找的概念
 
-![1552640160271](/assets/images/RuanKao_note/1552640160271.png)
+![1552640160271](https://assest.iaoe.xyz/img/1552640160271.png)
 
 * 平均查找长度——1/1+n
 * 时间复杂度——O(n)
@@ -277,7 +277,7 @@ tags:
 
 * 二分查找的概念
 
-  ![1552640503644](/assets/images/RuanKao_note/1552640503644.png)
+  ![1552640503644](https://assest.iaoe.xyz/img/1552640503644.png)
 
 * 时间复杂度为
   $$
@@ -288,11 +288,11 @@ tags:
 
 * 基本思想
 
-  ![1552641737600](/assets/images/RuanKao_note/1552641737600.png)
+  ![1552641737600](https://assest.iaoe.xyz/img/1552641737600.png)
 
 * 例题
 
-  ![1552641920940](/assets/images/RuanKao_note/1552641920940.png)
+  ![1552641920940](https://assest.iaoe.xyz/img/1552641920940.png)
 
 ## 排序⭐
 
@@ -308,31 +308,31 @@ tags:
 
 ### 排序方法分类
 
-![1552642402382](/assets/images/RuanKao_note/1552642402382.png)
+![1552642402382](https://assest.iaoe.xyz/img/1552642402382.png)
 
 ### 直接插入排序
 
-![1552642665517](/assets/images/RuanKao_note/1552642665517.png)
+![1552642665517](https://assest.iaoe.xyz/img/1552642665517.png)
 
 ### 希尔排序
 
-![1552643049444](/assets/images/RuanKao_note/1552643049444.png)
+![1552643049444](https://assest.iaoe.xyz/img/1552643049444.png)
 
 比如一次分出来的d1为5，就是间隔5个是一组，`57，28`一组，`68,96`一组，`59,33`一组`52,24`一组，组内进行直接插入排序，这样子在数据量大的时候效率高
 
 ### 直接选择排序
 
-![1552643282714](/assets/images/RuanKao_note/1552643282714.png)
+![1552643282714](https://assest.iaoe.xyz/img/1552643282714.png)
 
 ### 堆排序
 
 #### 1) 堆的概念
 
-![1552643372618](/assets/images/RuanKao_note/1552643372618.png)
+![1552643372618](https://assest.iaoe.xyz/img/1552643372618.png)
 
 类似于二叉树，最顶的树最小，最底的树最大，就叫做小顶堆，反之大顶堆
 
-![1552643434648](/assets/images/RuanKao_note/1552643434648.png)
+![1552643434648](https://assest.iaoe.xyz/img/1552643434648.png)
 
 #### 2) 堆排序的做法
 
@@ -342,33 +342,33 @@ tags:
 
   > 如果是大顶堆，从最后一个非叶子结点起，和底下的子节点对比，取最大的放在该结点上，如果子节点下还有其他结点，还要进行再次对比，最后到根结点来形成初建堆
 
-  ![1552644101647](/assets/images/RuanKao_note/1552644101647.png)
+  ![1552644101647](https://assest.iaoe.xyz/img/1552644101647.png)
 
 * 再次建堆
 
   > 再次建堆取最后一个结点放在根结点上，根结点与自己的子节点对比，和初建堆的对此操作一致
 
-  ![1552644453445](/assets/images/RuanKao_note/1552644453445.png)
+  ![1552644453445](https://assest.iaoe.xyz/img/1552644453445.png)
 
 ### 冒泡排序
 
-![1552644595559](/assets/images/RuanKao_note/1552644595559.png)
+![1552644595559](https://assest.iaoe.xyz/img/1552644595559.png)
 
 ### 快速排序
 
 > 快速排序是定一个基准，比基准大的放在左/右边，比基准小的放在右/左边，然后再对新的左右两堆进行同样的排序
 
-![1552644812756](/assets/images/RuanKao_note/1552644812756.png)
+![1552644812756](https://assest.iaoe.xyz/img/1552644812756.png)
 
 ### 归并排序
 
-![1552655373372](/assets/images/RuanKao_note/1552655373372.png)
+![1552655373372](https://assest.iaoe.xyz/img/1552655373372.png)
 
 ### 基数排序
 
-![1552655590197](/assets/images/RuanKao_note/1552655590197.png)
+![1552655590197](https://assest.iaoe.xyz/img/1552655590197.png)
 
 ### 排序算法的复杂度和空间复杂度及稳定性
 
-![1552655627509](/assets/images/RuanKao_note/1552655627509.png)
+![1552655627509](https://assest.iaoe.xyz/img/1552655627509.png)
 

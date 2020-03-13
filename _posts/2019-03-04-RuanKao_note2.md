@@ -10,9 +10,9 @@ tags:
 
 ## 操作系统概述
 
-![1551708818035](/assets/images/RuanKao_note/1551708818035.png)
+![1551708818035](https://assest.iaoe.xyz/img/1551708818035.png)
 
-![1551708831972](/assets/images/RuanKao_note/1551708831972.png)
+![1551708831972](https://assest.iaoe.xyz/img/1551708831972.png)
 
 ## 进程管理
 
@@ -26,7 +26,7 @@ tags:
 
   等待态：差其他资源(如用户输入，外设接入)，并且还差CPU状态
 
-![1551709059363](/assets/images/RuanKao_note/1551709059363.png)
+![1551709059363](https://assest.iaoe.xyz/img/1551709059363.png)
 
 
 
@@ -34,11 +34,11 @@ tags:
 
   挂起操作：比如人为想把进程人为的挂起，那么就会产生静止就绪和静止阻塞
 
-  ![1551709417090](/assets/images/RuanKao_note/1551709417090.png)
+  ![1551709417090](https://assest.iaoe.xyz/img/1551709417090.png)
 
 ### 前趋图
 
-![1551709737039](/assets/images/RuanKao_note/1551709737039.png)
+![1551709737039](https://assest.iaoe.xyz/img/1551709737039.png)
 
 ### 进程的同步和互斥
 
@@ -46,39 +46,39 @@ tags:
 
 同步：有速度差异需求的多个进程，有时需要速度快的停下来等待其他进程，例如下面的图，只有消费者消费完才允许生产者生产
 
-![1551709998515](/assets/images/RuanKao_note/1551709998515.png)
+![1551709998515](https://assest.iaoe.xyz/img/1551709998515.png)
 
 单缓存区和多缓冲区：
 
-![1551710094712](/assets/images/RuanKao_note/1551710094712.png)
+![1551710094712](https://assest.iaoe.xyz/img/1551710094712.png)
 
 ### PV操作
 
-![1551710212311](/assets/images/RuanKao_note/1551710212311.png)
+![1551710212311](https://assest.iaoe.xyz/img/1551710212311.png)
 
 * **PV操作简单概述**
 
-![1551710585558](/assets/images/RuanKao_note/1551710585558.png)
+![1551710585558](https://assest.iaoe.xyz/img/1551710585558.png)
 
 * **PV操作实例1**
 
-![1551710696012](/assets/images/RuanKao_note/1551710696012.png)
+![1551710696012](https://assest.iaoe.xyz/img/1551710696012.png)
 
 * **PV操作实例2**
 
-  ![1551711910060](/assets/images/RuanKao_note/1551711910060.png)
+  ![1551711910060](https://assest.iaoe.xyz/img/1551711910060.png)
 
 * **PV操作与前趋图**
 
-  ![1551711975335](/assets/images/RuanKao_note/1551711975335.png)
+  ![1551711975335](https://assest.iaoe.xyz/img/1551711975335.png)
 
 ### 死锁问题
 
-![1551795022531](/assets/images/RuanKao_note/1551795022531.png)
+![1551795022531](https://assest.iaoe.xyz/img/1551795022531.png)
 
 * **死锁的产生，预防和避免**
 
-  ![1551795176723](/assets/images/RuanKao_note/1551795176723.png)
+  ![1551795176723](https://assest.iaoe.xyz/img/1551795176723.png)
 
   * 死锁的产生
     * 互斥
@@ -92,7 +92,7 @@ tags:
 
 * **例子**
 
-  ![1551795598117](/assets/images/RuanKao_note/1551795598117.png)
+  ![1551795598117](https://assest.iaoe.xyz/img/1551795598117.png)
 
 
 
@@ -100,7 +100,7 @@ tags:
 
 ### 分区存储组织
 
-![1551796058096](/assets/images/RuanKao_note/1551796058096.png)
+![1551796058096](https://assest.iaoe.xyz/img/1551796058096.png)
 
 * 适应法
   * 首次适应法：从地址第小的开始，找到能插入的就插入
@@ -117,37 +117,37 @@ tags:
 
   逻辑地址如下，逻辑地址通过页号到页表里面查找物理地址的快号，然后找到物理地址，页内地址和物理地址式一样的
 
-![1551796990697](/assets/images/RuanKao_note/1551796990697.png)
+![1551796990697](https://assest.iaoe.xyz/img/1551796990697.png)
 
-![1551796966017](/assets/images/RuanKao_note/1551796966017.png)
+![1551796966017](https://assest.iaoe.xyz/img/1551796966017.png)
 
-![1551797261385](/assets/images/RuanKao_note/1551797261385.png)
+![1551797261385](https://assest.iaoe.xyz/img/1551797261385.png)
 
 * **页式存储的练习题**
 
-![1551797289945](/assets/images/RuanKao_note/1551797289945.png)
+![1551797289945](https://assest.iaoe.xyz/img/1551797289945.png)
 
 #### 段式存储
 
 * 段式存储是按逻辑方式划分的，比如A程序分再一个段里面，便于共享内存
 
-![1551797876707](/assets/images/RuanKao_note/1551797876707.png)
+![1551797876707](https://assest.iaoe.xyz/img/1551797876707.png)
 
 * 段式存储的段表式有段号，段长，和开始的基址
 
-  ![1551798061020](/assets/images/RuanKao_note/1551798061020.png)
+  ![1551798061020](https://assest.iaoe.xyz/img/1551798061020.png)
 
-  ![1551798184287](/assets/images/RuanKao_note/1551798184287.png)
+  ![1551798184287](https://assest.iaoe.xyz/img/1551798184287.png)
 
 #### 段页式存储
 
-![1551798171433](/assets/images/RuanKao_note/1551798171433.png)
+![1551798171433](https://assest.iaoe.xyz/img/1551798171433.png)
 
 #### 块表
 
 按内容存取，慢表是放在内存中的
 
-![1551798278324](/assets/images/RuanKao_note/1551798278324.png)
+![1551798278324](https://assest.iaoe.xyz/img/1551798278324.png)
 
 ### 页面置换算法
 
@@ -159,7 +159,7 @@ tags:
 
   * 会产生“抖动”，抖动是指我分配资源越多，但是反而效率最低
 
-    ![1551799038155](/assets/images/RuanKao_note/1551799038155.png)
+    ![1551799038155](https://assest.iaoe.xyz/img/1551799038155.png)
 
     
 
@@ -167,37 +167,37 @@ tags:
 
   比如501203，如果内存空间只有3页，那么前面三次会缺页，导入501，第四次缺页，此时，501都被访问到，那么先淘汰最远访问的5，导入2，接下来导入0，没有缺页，最后一次导入3，如果按照先进先出算法，那么要淘汰0号页，但是因为采用的是LRU算法，按时间顺序，0刚刚被访问到了，其次是2，再其次是1，则淘汰掉1，导入3
 
-  ![1551832641814](/assets/images/RuanKao_note/1551832641814.png)
+  ![1551832641814](https://assest.iaoe.xyz/img/1551832641814.png)
 
 * **题目**
 
-  ![1551833831538](/assets/images/RuanKao_note/1551833831538.png)
+  ![1551833831538](https://assest.iaoe.xyz/img/1551833831538.png)
 
 ## 文件管理
 
 ### 索引文件结构
 
-![1551835009476](/assets/images/RuanKao_note/1551835009476.png)
+![1551835009476](https://assest.iaoe.xyz/img/1551835009476.png)
 
-![1551835522161](/assets/images/RuanKao_note/1551835522161.png)
+![1551835522161](https://assest.iaoe.xyz/img/1551835522161.png)
 
 ### 文件和树型目录结构
 
 * **树型目录结构**
 
-  ![1551835676840](/assets/images/RuanKao_note/1551835676840.png)
+  ![1551835676840](https://assest.iaoe.xyz/img/1551835676840.png)
 
   
 
 * 文件
 
-  ![1551835711025](/assets/images/RuanKao_note/1551835711025.png)
+  ![1551835711025](https://assest.iaoe.xyz/img/1551835711025.png)
 
 ### 空闲存储空间的管理
 
 在磁盘上会有大量的空闲空间，要把他们管理起来，以便有新文件的时候，可以分配空间给它
 
-![1551835838722](/assets/images/RuanKao_note/1551835838722.png)
+![1551835838722](https://assest.iaoe.xyz/img/1551835838722.png)
 
 * 空闲区表法
 
@@ -213,13 +213,13 @@ tags:
 
 * 位示图法
 
-  ![1551836140467](/assets/images/RuanKao_note/1551836140467.png)
+  ![1551836140467](https://assest.iaoe.xyz/img/1551836140467.png)
 
   1表达的区域表示已经被占用，0表示未占用，像电影院的座位就像是位示图法
 
   * 例题
 
-    ![1551836789723](/assets/images/RuanKao_note/1551836789723.png)
+    ![1551836789723](https://assest.iaoe.xyz/img/1551836789723.png)
 
     这里需要注意物理块是从0号开始的，位置是从0号开始的，字是从1开始算
 
@@ -229,7 +229,7 @@ tags:
 
 > 指的是内存和外设之间的传输控制问题，解决这个问题的方法有以下
 
-![1551837282188](/assets/images/RuanKao_note/1551837282188.png)
+![1551837282188](https://assest.iaoe.xyz/img/1551837282188.png)
 
 * 程序控制方式
 
@@ -245,17 +245,17 @@ tags:
 
 ### 虚设备与SPOOLING(多任务缓冲)技术
 
-![1551837718714](/assets/images/RuanKao_note/1551837718714.png)
+![1551837718714](https://assest.iaoe.xyz/img/1551837718714.png)
 
 使用缓冲区，如果多人打印，都可以打，不会显示设备被占用，但是是存在打印队列里面
 
-![1551837966087](/assets/images/RuanKao_note/1551837966087.png)
+![1551837966087](https://assest.iaoe.xyz/img/1551837966087.png)
 
 ### 微内核操作系统
 
 > `微内核操作系统`就是把内核缩小一点，就是把核心权力缩小，像皇帝的权力缩小，如果皇帝出事了，整个系统不出很大问题，如果其他分出去的权力机构出事了，就换掉(重启)一个就行，以前的XP经常蓝屏就是因为用了`单体内核`而没有使用微内核
 
-![1551838205816](/assets/images/RuanKao_note/1551838205816.png)
+![1551838205816](https://assest.iaoe.xyz/img/1551838205816.png)
 
 分出去的是用户态，核心是核心态
 

@@ -12,15 +12,15 @@ tags:
 
 ### 三级模式-两级映射
 
-![1551878313413](/assets/images/RuanKao_note/1551878313413.png)
+![1551878313413](https://assest.iaoe.xyz/img/1551878313413.png)
 
 ##  数据库设计过程
 
-![1551878547547](/assets/images/RuanKao_note/1551878547547.png)
+![1551878547547](https://assest.iaoe.xyz/img/1551878547547.png)
 
 ## ER模型
 
-![1551878639254](/assets/images/RuanKao_note/1551878639254.png)
+![1551878639254](https://assest.iaoe.xyz/img/1551878639254.png)
 
 * 实体模型转换为关系模型
 
@@ -39,15 +39,15 @@ tags:
 
 * 并交差
 
-![1551881699209](/assets/images/RuanKao_note/1551881699209.png)
+![1551881699209](https://assest.iaoe.xyz/img/1551881699209.png)
 
 * 笛卡尔积、投影、选择
 
-  ![1551881837273](/assets/images/RuanKao_note/1551881837273.png)
+  ![1551881837273](https://assest.iaoe.xyz/img/1551881837273.png)
 
 * **联接操作**
 
-  ![1551882646611](/assets/images/RuanKao_note/1551882646611.png)
+  ![1551882646611](https://assest.iaoe.xyz/img/1551882646611.png)
 
 ## 规范化理论
 
@@ -67,7 +67,7 @@ tags:
 
 > 非规范化设计，可能存在的问题有数据冗余，更新异常，插入异常，删除异常，完成规范化设计，可能就会性能不行，但不完成，就会有安全问题
 
-![1551883591310](/assets/images/RuanKao_note/1551883591310.png)
+![1551883591310](https://assest.iaoe.xyz/img/1551883591310.png)
 
 * 数据冗余
 
@@ -95,7 +95,7 @@ tags:
 
   只有一个属性
 
-  ![1552135727470](/assets/images/RuanKao_note/1552135727470.png)
+  ![1552135727470](https://assest.iaoe.xyz/img/1552135727470.png)
 
 * **主键**
 
@@ -107,23 +107,23 @@ tags:
 
 > 完成范式后就可以解决掉之前出现的插入异常，删除异常，数据冗余的问题，但是性能就会降低，所以一般实现第3范式就行，完成高级范式的同时就一定会完成低级的范式
 
-![1552135835177](/assets/images/RuanKao_note/1552135835177.png)
+![1552135835177](https://assest.iaoe.xyz/img/1552135835177.png)
 
 #### 第一范式
 
-![1552135998577](/assets/images/RuanKao_note/1552135998577.png)
+![1552135998577](https://assest.iaoe.xyz/img/1552135998577.png)
 
 #### 第二范式
 
-![1552136537113](/assets/images/RuanKao_note/1552136537113.png)
+![1552136537113](https://assest.iaoe.xyz/img/1552136537113.png)
 
 #### 第三范式
 
-![1552137048136](/assets/images/RuanKao_note/1552137048136.png)
+![1552137048136](https://assest.iaoe.xyz/img/1552137048136.png)
 
 #### BC范式
 
-![1552137340544](/assets/images/RuanKao_note/1552137340544.png)
+![1552137340544](https://assest.iaoe.xyz/img/1552137340544.png)
 
 ### 模式分解
 
@@ -135,27 +135,27 @@ tags:
 
   如A->B，B->C，A->C，那么分解成的就是AB，和BC表
 
-  ![1552138135780](/assets/images/RuanKao_note/1552138135780.png)
+  ![1552138135780](https://assest.iaoe.xyz/img/1552138135780.png)
 
 * **无损分解**
 
   * 直接推导的方式求有损分解
 
-  ![1552138261721](/assets/images/RuanKao_note/1552138261721.png)
+  ![1552138261721](https://assest.iaoe.xyz/img/1552138261721.png)
 
   * 公式计算的方式计算
 
-    ![1552138946759](/assets/images/RuanKao_note/1552138946759.png)
+    ![1552138946759](https://assest.iaoe.xyz/img/1552138946759.png)
 
   * 定理方式
 
-    ![1552139584227](/assets/images/RuanKao_note/1552139584227.png)
+    ![1552139584227](https://assest.iaoe.xyz/img/1552139584227.png)
 
 ### 反规范技术
 
 - 规范化的缺点
 
-![1552143086546](/assets/images/RuanKao_note/1552143086546.png)
+![1552143086546](https://assest.iaoe.xyz/img/1552143086546.png)
 
 - 技术手段
   - 增加派生性冗余列
@@ -167,7 +167,7 @@ tags:
 
 ## 并发控制
 
-![1552139634442](/assets/images/RuanKao_note/1552139634442.png)
+![1552139634442](https://assest.iaoe.xyz/img/1552139634442.png)
 
 ### 事务
 
@@ -189,13 +189,13 @@ tags:
 
 ### 并发控制存在的问题
 
-![1552140578879](/assets/images/RuanKao_note/1552140578879.png)
+![1552140578879](https://assest.iaoe.xyz/img/1552140578879.png)
 
 ### 封锁协议
 
 > 解决并发控制中的问题
 
-![1552140646308](/assets/images/RuanKao_note/1552140646308.png)
+![1552140646308](https://assest.iaoe.xyz/img/1552140646308.png)
 
 S锁是读锁，X锁是写锁
 
@@ -205,7 +205,7 @@ S锁是读锁，X锁是写锁
 
 ## 数据库完整性约束
 
-![1552140796797](/assets/images/RuanKao_note/1552140796797.png)
+![1552140796797](https://assest.iaoe.xyz/img/1552140796797.png)
 
 * 实体完整性约束
 
@@ -221,33 +221,33 @@ S锁是读锁，X锁是写锁
 
 >  提高了数据可靠性，但是只能应对简单的情况，这个时候就有了触发器
 
-![1552140995263](/assets/images/RuanKao_note/1552140995263.png)
+![1552140995263](https://assest.iaoe.xyz/img/1552140995263.png)
 
 ## 数据库安全与数据备份
 
 ### 数据安全
 
-![1552141149619](/assets/images/RuanKao_note/1552141149619.png)
+![1552141149619](https://assest.iaoe.xyz/img/1552141149619.png)
 
 ### 数据备份与恢复
 
 * 冷热备份
 
-![1552141416731](/assets/images/RuanKao_note/1552141416731.png)
+![1552141416731](https://assest.iaoe.xyz/img/1552141416731.png)
 
 * 增量备份
 
-  ![1552141725465](/assets/images/RuanKao_note/1552141725465.png)
+  ![1552141725465](https://assest.iaoe.xyz/img/1552141725465.png)
 
-  ![1552141805135](/assets/images/RuanKao_note/1552141805135.png)
+  ![1552141805135](https://assest.iaoe.xyz/img/1552141805135.png)
 
 * 日志文件来进行备份恢复
 
-  ![1552141911763](/assets/images/RuanKao_note/1552141911763.png)
+  ![1552141911763](https://assest.iaoe.xyz/img/1552141911763.png)
 
 ### 数据库故障与恢复
 
-![1552142009443](/assets/images/RuanKao_note/1552142009443.png)
+![1552142009443](https://assest.iaoe.xyz/img/1552142009443.png)
 
 
 
@@ -261,7 +261,7 @@ S锁是读锁，X锁是写锁
 
 ### 数据仓库
 
-![1552142391879](/assets/images/RuanKao_note/1552142391879.png)
+![1552142391879](https://assest.iaoe.xyz/img/1552142391879.png)
 
 * 特点
 
@@ -300,13 +300,13 @@ S锁是读锁，X锁是写锁
 
 ### 数据挖掘方法分类
 
-![1552143005042](/assets/images/RuanKao_note/1552143005042.png)
+![1552143005042](https://assest.iaoe.xyz/img/1552143005042.png)
 
 
 
 ## 大数据
 
-![1552143284743](/assets/images/RuanKao_note/1552143284743.png)
+![1552143284743](https://assest.iaoe.xyz/img/1552143284743.png)
 
 * 大数据和传统数据的分析
 

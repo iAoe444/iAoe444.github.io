@@ -17,7 +17,7 @@ tags:
 
 如果链接失效，可以通过 [google code](https://code.google.com/archive/p/mentohust/downloads?page=2) 这个页面（需科学上网）下载抓包工具，解压后就有这个小文件了。
 
-![1537188175774](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537188175774.png?raw=true)
+![1537188175774](https://assest.iaoe.xyz/img/1537188175774.png)
 
 
 
@@ -29,29 +29,29 @@ tags:
 
    先给路由器通电，开机后用网线连接`路由器黄色的口`和`电脑的网线接口`，电脑的wifi最好关掉
 
-   ![1](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1.jpg?raw=true)
+   ![1](https://assest.iaoe.xyz/img/1.jpg)
 
 2. **打开浏览器**
 
    如果是第一次开机的话浏览器后直接跳转，如果不是的话就登陆`hiwifi.com`,直接进入下面一步
 
-   ![1537186425054](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186425054.png?raw=true)
+   ![1537186425054](https://assest.iaoe.xyz/img/1537186425054.png)
 
    ***
 
-   ![1537186461019](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186461019.png?raw=true)
+   ![1537186461019](https://assest.iaoe.xyz/img/1537186461019.png)
 
    ***
 
-   ![1537186526713](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186526713.png?raw=true)
+   ![1537186526713](https://assest.iaoe.xyz/img/1537186526713.png)
 
    ***
 
-   ![1537186590336](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186590336.png?raw=true)
+   ![1537186590336](https://assest.iaoe.xyz/img/1537186590336.png)
 
    ***
 
-   ![1537186623248](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186623248.png?raw=true)
+   ![1537186623248](https://assest.iaoe.xyz/img/1537186623248.png)
 
 ## 设置路由器
 
@@ -59,7 +59,37 @@ tags:
 
       如果刚刚配置成功后会进入这么一个页面，填入刚刚设置的密码后点击ok就行
 
-      ![1537186810185](https://github.com/iAoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186810185.png?raw=true)
+      ![1537186810185](https://assest.iaoe.xyz/img/1537186810185.png)
+
+   2. **mac地址克隆**
+
+      在首页的地方点击mac地址克隆
+
+      ![2](https://assest.iaoe.xyz/img/2.png)
+
+      克隆你电脑的mac地址后点击保存
+
+      ![3](https://assest.iaoe.xyz/img/3.png)
+
+   3. **配置锐捷认证**
+
+      点击页面左侧的互联网，再点击锐捷认证
+
+      ![1537187072343](https://assest.iaoe.xyz/img/1537187072343.png)
+
+      配置信息如下
+
+      ![1537187202939](https://assest.iaoe.xyz/img/1537187202939.png)
+
+      选择mentohust.mpf里的`选择文件` 按钮，选择我们一开始下载的文件，点击保存后即可
+
+      ![1537187302731](https://assest.iaoe.xyz/img/1537187302731.png)
+
+   4. **连接内网**
+
+      将之前内网连接电脑的网线接到路由器的`黄色的口`,也就是WAN口上，等待一段时间，打开浏览器上随便一个网站，能连上就是成功了。
+
+Aoe444/iAoe444.github.io/blob/master/assets/images/2018-08-12-%E6%9E%81%E8%B7%AF%E7%94%B11s%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/1537186810185.png?raw=true)
 
    2. **mac地址克隆**
 

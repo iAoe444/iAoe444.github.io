@@ -10,7 +10,7 @@ tags:
 
 ## OSI/RM七层模型
 
-![1552217365954](/assets/images/RuanKao_note/1552217365954.png)
+![1552217365954](https://assest.iaoe.xyz/img/1552217365954.png)
 
 * 物理层
 
@@ -23,7 +23,7 @@ tags:
 
   * 交换机 - 交换机是多口的网桥，进化版的网桥
 
-    ![1552218114465](/assets/images/RuanKao_note/1552218114465.png)
+    ![1552218114465](https://assest.iaoe.xyz/img/1552218114465.png)
 
 * 网络层
 
@@ -33,7 +33,7 @@ tags:
 
   * 路由器
 
-    ![1552218811143](/assets/images/RuanKao_note/1552218811143.png)
+    ![1552218811143](https://assest.iaoe.xyz/img/1552218811143.png)
 
 * 传输层
 
@@ -45,9 +45,9 @@ tags:
 
 ## 网络技术标准与协议
 
-![1552218884795](/assets/images/RuanKao_note/1552218884795.png)
+![1552218884795](https://assest.iaoe.xyz/img/1552218884795.png)
 
-![1552220454394](/assets/images/RuanKao_note/1552220454394.png)
+![1552220454394](https://assest.iaoe.xyz/img/1552220454394.png)
 
 ### 协议的分类
 
@@ -66,7 +66,7 @@ tags:
 
     * [TCP协议在通信前三次握手](https://baijiahao.baidu.com/s?id=1614404084382122793&wfr=spider&for=pc)
 
-      ![1552220852451](/assets/images/RuanKao_note/1552220852451.png)
+      ![1552220852451](https://assest.iaoe.xyz/img/1552220852451.png)
 
      * 在三次握手后传输信息后会有确定，窗口，重传，拥塞控制机制
 
@@ -91,7 +91,7 @@ tags:
 
 ### DHCP协议
 
-![1552223564268](/assets/images/RuanKao_note/1552223564268.png)
+![1552223564268](https://assest.iaoe.xyz/img/1552223564268.png)
 
 * 租约的意思
 
@@ -103,7 +103,7 @@ tags:
 
 > 域名和IP之间的转换
 
-![1552224386538](/assets/images/RuanKao_note/1552224386538.png)
+![1552224386538](https://assest.iaoe.xyz/img/1552224386538.png)
 
 * 查询域名的方式
   * 递归查询
@@ -115,13 +115,13 @@ tags:
 
 ## 网络类型的分类
 
-![1552224640775](/assets/images/RuanKao_note/1552224640775.png)
+![1552224640775](https://assest.iaoe.xyz/img/1552224640775.png)
 
 ## 网络规划与设计
 
 ### 网络规划与设计
 
-![1552224847665](/assets/images/RuanKao_note/1552224847665.png)
+![1552224847665](https://assest.iaoe.xyz/img/1552224847665.png)
 
 * 网络规划原则
   * 实用性——解决实际问题
@@ -134,21 +134,21 @@ tags:
 
 ### 逻辑网络设计
 
-![1552225267092](/assets/images/RuanKao_note/1552225267092.png)
+![1552225267092](https://assest.iaoe.xyz/img/1552225267092.png)
 
 ### 物理网络设计
 
-![1552225287786](/assets/images/RuanKao_note/1552225287786.png)
+![1552225287786](https://assest.iaoe.xyz/img/1552225287786.png)
 
 ### 分层设计
 
-![1552225313507](/assets/images/RuanKao_note/1552225313507.png)
+![1552225313507](https://assest.iaoe.xyz/img/1552225313507.png)
 
 ## IP地址与子网划分
 
 ### IP地址的划分
 
-![1552225881249](/assets/images/RuanKao_note/1552225881249.png)
+![1552225881249](https://assest.iaoe.xyz/img/1552225881249.png)
 
 * A类地址前面八个Bit位为网络号，后面24个为主机号
   * 所以一个A类地址的地址数量为 2^24-2，减掉的是全零的地址(网络地址)，全一的地址(广播地址)
@@ -163,15 +163,15 @@ tags:
 
 * 问题
 
-  ![1552226687689](/assets/images/RuanKao_note/1552226687689.png)
+  ![1552226687689](https://assest.iaoe.xyz/img/1552226687689.png)
 
   * 例题1
 
-    ![1552226815137](/assets/images/RuanKao_note/1552226815137.png)
+    ![1552226815137](https://assest.iaoe.xyz/img/1552226815137.png)
 
    * 例题2
 
-     ![1552227286190](/assets/images/RuanKao_note/1552227286190.png)
+     ![1552227286190](https://assest.iaoe.xyz/img/1552227286190.png)
 
 ### 无分类编制
 
@@ -179,27 +179,27 @@ tags:
 
 - 172.18.12.0/24代表前面24bit位做网络地址
 
-![1552227396101](/assets/images/RuanKao_note/1552227396101.png)
+![1552227396101](https://assest.iaoe.xyz/img/1552227396101.png)
 
 ### 特殊含义的网址
 
-![1552227713762](/assets/images/RuanKao_note/1552227713762.png)
+![1552227713762](https://assest.iaoe.xyz/img/1552227713762.png)
 
 ## HTML
 
-![1552227752224](/assets/images/RuanKao_note/1552227752224.png)
+![1552227752224](https://assest.iaoe.xyz/img/1552227752224.png)
 
 ## 无线网
 
-![1552228003370](/assets/images/RuanKao_note/1552228003370.png)
+![1552228003370](https://assest.iaoe.xyz/img/1552228003370.png)
 
 ## 网络接入技术
 
-![1552229687331](/assets/images/RuanKao_note/1552229687331.png)
+![1552229687331](https://assest.iaoe.xyz/img/1552229687331.png)
 
 ## IPv6
 
 > IPv4地址不够用，分配不公平
 
-![1552230093519](/assets/images/RuanKao_note/1552230093519.png)
+![1552230093519](https://assest.iaoe.xyz/img/1552230093519.png)
 

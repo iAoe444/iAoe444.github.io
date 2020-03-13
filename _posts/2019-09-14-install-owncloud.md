@@ -65,7 +65,7 @@ wget https://download.owncloud.org/community/owncloud-10.2.0.tar.bz2
    </Directory>
    ```
    
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g6zd22qkdrj30ay0ccjro.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g6zd22qkdrj30ay0ccjro.jpg)
 
 ## 为owncloud创建一个数据库
 
@@ -128,7 +128,7 @@ exit
    </VirtualHost>
    ```
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g6zcs39qqjj30eq0ao0t7.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g6zcs39qqjj30eq0ao0t7.jpg)
    
 3. 创建nginx配置文件
 
@@ -170,14 +170,14 @@ service nginx restart
 
 现在应该可以通过`http://服务地址/owncloud`，或者如果你做了反向代理，应该可以通过你设置的域名直接访问了，需要做最后一步配置
 
-![](https://ws1.sinaimg.cn/large/006bBmqIly1g6zdbvu8t9j30ee0fqgmi.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIly1g6zdbvu8t9j30ee0fqgmi.jpg)
 
 这样就安装完成了，相对来说算是比较简单的
 
-![](https://ws1.sinaimg.cn/large/006bBmqIly1g6zdgq1eerj31hy0r6gmi.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIly1g6zdgq1eerj31hy0r6gmi.jpg)
 
 ## 参考链接
 
 [Linux下配置Nginx+Apache+PHP+Tomcat+Java同时运行 - 王瑞的博客 - CSDN博客](https://blog.csdn.net/Axela30W/article/details/78865165)
 
-[在ubuntu16.04上安装owncloud - 简书](https://www.jianshu.com/p/7290d5329321)
+[在ubuntu16.04上安装owncloud - 简书](https://www.jianshu.com/p/7290d5329321)321)

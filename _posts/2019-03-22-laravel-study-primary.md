@@ -24,11 +24,11 @@ tags:
 
   * 从Model获取数据，并输入到View中
 
-    ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5snhdhhdpj30bm05l3z7.jpg)
+    ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5snhdhhdpj30bm05l3z7.jpg)
 
   * 接收View的用户操作，并响应相应操作
 
-    ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5snhj0qm1j30by05taav.jpg)
+    ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5snhj0qm1j30by05taav.jpg)
 
 ## 2. Laravel的安装及核心目录文件介绍
 
@@ -265,7 +265,7 @@ Member::getMember();
 
 * 到phpmyadmin的网址下，去执行下面的语句
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5snhty6qrj30gs06uq50.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g5snhty6qrj30gs06uq50.jpg)
 
 * 连接数据库
 
@@ -600,7 +600,7 @@ $num = DB:delete('delete from student where id >?',[1001]); //返回影响的行
 
   这里会自动维护created和updated字段，所以上述代码运行后，会发现会自动加上一个时间
 
-  ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sni0llc7j30fg04r0vg.jpg)
+  ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sni0llc7j30fg04r0vg.jpg)
 
   * 如果不想自动添加时间戳，就打开之前模型，进行设置，新增
 
@@ -1341,4 +1341,6 @@ Session::flash('key-flash','value-flash');
 - 中间件的前置和后置操作
 
   > 操作return reponse前执行的是前置操作，在return reponse后执行的是后置操作
+
+��
 

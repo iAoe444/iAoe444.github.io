@@ -23,7 +23,7 @@ tags:
 
 1. 这里识别的是奕报告的成绩截图，利用文字基础识别的`分块识别`的特点，将里面的成绩和科目提取出来，这样就可以快速计算基础分了
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sgq0445jj30ef07y0t3.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sgq0445jj30ef07y0t3.jpg)
 
 2. 这里由于做的是一个小工具，使用的是`python`语言，所以用的是里面提供的python的sdk，比较方便一点，当然你也可以通过提供里面提供的API来进行识别，不过就是没有sdk方便就是了[百度智能云-Python文字识别SDK文档](https://ai.baidu.com/docs#/OCR-Python-SDK/top)
 
@@ -56,11 +56,11 @@ tags:
 
    注意这里的`APP_ID`和`APP_KEY`以及`SECRET_KEY`需要自己去百度智能云的官网创建一个应用后获取[百度智能云-文字识别](https://console.bce.baidu.com/ai/#/ai/ocr/overview/index)
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sge8tpxoj31280jy3zy.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sge8tpxoj31280jy3zy.jpg)
 
 5. 当你使用上面的代码来识别奕报告的截图的时候，会发现识别的结果具体如下
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sguub94hj30qf05mwg1.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sguub94hj30qf05mwg1.jpg)
 
    发现是个字典类型，并且每个文字块都被分开了，成绩就在`综合成绩:96`这块里面，而科目信息就在成绩的前面，所以需要做的事情也就是使用`正则表达式`查找包含综合成绩的信息，并将成绩提取出来，而后取前一个信息作为科目
 
@@ -89,11 +89,11 @@ tags:
 
 6. 但是实际上在提取文字信息的时候会发现存在一些问题，比如出现成绩和科目混在一块的问题，具体还需要做些算法进行补偿
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sh3a8akmj30vp05g40m.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sh3a8akmj30vp05g40m.jpg)
 
 7. 通过优化这样就可以写成一个本地的版本[zongce/local_version](https://github.com/iAoe444/zongce/tree/master/local_version)，这里将图片放在image目录下，然后调用`ocr.py`就可以实现批量识别了
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sh9yxzh5j30ds022t8j.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sh9yxzh5j30ds022t8j.jpg)
 
 ## Web端的开发
 
@@ -212,7 +212,7 @@ tags:
 
 2. 但是当我再用到像[layer弹出层 - 在线演示 - layui](https://www.layui.com/demo/layer.html)和[文件/图片上传 - 在线演示 - layui](https://www.layui.com/demo/upload.html)需要使用到js的样式时，就要将整个layui整个包下载下来放在项目里，也就600多kb而已
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sig1o0j9j307y05kweg.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sig1o0j9j307y05kweg.jpg)
 
    上面的图片是layui包的路径，在调用的时候要调用css和js
 
@@ -258,13 +258,13 @@ tags:
 
 4. 到这里就可以展示一下改造后的项目了[web_version iAoe444/zongce](https://github.com/iAoe444/zongce/tree/master/web_version)
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5silem6vwj31200le3zk.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5silem6vwj31200le3zk.jpg)
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5sim0cj00j30cd0kkmxn.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g5sim0cj00j30cd0kkmxn.jpg)
 
    
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g5simlgw65j30cl0nimxw.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g5simlgw65j30cl0nimxw.jpg)
 
 ### 项目的部署
 
@@ -399,4 +399,4 @@ tags:
    </div>
    ```
 
-7. 接下来就是其他优化了，至此三个版本就介绍完毕了，完成这样一个小项目也算是对之前的学习的内容的总结，也算是小有成就感
+7. 接下来就是其他优化了，至此三个版本就介绍完毕了，完成这样一个小项目也算是对之前的学习的内容的总结，也算是小有成就感成就感

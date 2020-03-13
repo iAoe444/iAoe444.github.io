@@ -14,27 +14,27 @@ tags:
 
 * 按权展开法（R进制转为10进制）
 
-![1551510160891](/assets/images/RuanKao_note/1551510160891.png)
+![1551510160891](https://assest.iaoe.xyz/img/1551510160891.png)
 
 * 短除法（十进制转R进制）
 
-![1551510316553](/assets/images/RuanKao_note/1551510316553.png)
+![1551510316553](https://assest.iaoe.xyz/img/1551510316553.png)
 
 * 二进制转八进制和十六进制
 
-![1551510380268](/assets/images/RuanKao_note/1551510380268.png)
+![1551510380268](https://assest.iaoe.xyz/img/1551510380268.png)
 
 ###  原码反码补码
 
 * 数值的表达
 
-![1551510553505](/assets/images/RuanKao_note/1551510553505.png)
+![1551510553505](https://assest.iaoe.xyz/img/1551510553505.png)
 
 ​	移码是在做浮点运算时的阶码时使用，如果将移码放在数轴上我们会发现，正数在后面，负数在前面，这样子就很漂亮
 
 * 数值的取值范围
 
-  ![1551510970387](/assets/images/RuanKao_note/1551510970387.png)
+  ![1551510970387](https://assest.iaoe.xyz/img/1551510970387.png)
 
   因为补码的+0和-0都是0000 0000，所以负数多了一个数值
 
@@ -42,7 +42,7 @@ tags:
 
 * 浮点数运算
 
-  ![1551511443280](/assets/images/RuanKao_note/1551511443280.png)
+  ![1551511443280](https://assest.iaoe.xyz/img/1551511443280.png)
 
 * 对阶
 
@@ -60,7 +60,7 @@ tags:
 
 ##  计算机结构
 
-![1551511731759](/assets/images/RuanKao_note/1551511731759.png)
+![1551511731759](https://assest.iaoe.xyz/img/1551511731759.png)
 
 * 运算器（做运算的职能）
   * 算术逻辑单元ALU——跟运算相关
@@ -77,25 +77,25 @@ tags:
 
 >  计算机体系结构的分类方法
 
-![1551513258034](/assets/images/RuanKao_note/1551513258034.png)
+![1551513258034](https://assest.iaoe.xyz/img/1551513258034.png)
 
 ##  CISC与RISC
 
-![1551513564328](/assets/images/RuanKao_note/1551513564328.png)
+![1551513564328](https://assest.iaoe.xyz/img/1551513564328.png)
 
 ##  流水线技术
 
 ###  概念
 
-![1551513647204](/assets/images/RuanKao_note/1551513647204.png)
+![1551513647204](https://assest.iaoe.xyz/img/1551513647204.png)
 
 计算机在执行指令时候，分为三个步骤
 
-![1551513754257](/assets/images/RuanKao_note/1551513754257.png)
+![1551513754257](https://assest.iaoe.xyz/img/1551513754257.png)
 
 那么有无使用流水线的时候，是这样的
 
-![1551513807970](/assets/images/RuanKao_note/1551513807970.png)
+![1551513807970](https://assest.iaoe.xyz/img/1551513807970.png)
 
 ###  流水线的计算
 
@@ -108,17 +108,17 @@ tags:
 
 * 流水线的 **吞吐率** 计算
 
-  ![1551514891688](/assets/images/RuanKao_note/1551514891688.png)
+  ![1551514891688](https://assest.iaoe.xyz/img/1551514891688.png)
 
 * 流水线的 **最大吞吐量** ——1/周期
 
 * 流水线的 **加速比** 计算
 
-  ![1551515005528](/assets/images/RuanKao_note/1551515005528.png)
+  ![1551515005528](https://assest.iaoe.xyz/img/1551515005528.png)
 
 * 流水线的 **效率**
 
-  ![1551515081645](/assets/images/RuanKao_note/1551515081645.png)
+  ![1551515081645](https://assest.iaoe.xyz/img/1551515081645.png)
 
   也就是阴影面积/总面积
 
@@ -128,7 +128,7 @@ tags:
 
 ###  层次化存储结构
 
-![1551515298709](/assets/images/RuanKao_note/1551515298709.png)
+![1551515298709](https://assest.iaoe.xyz/img/1551515298709.png)
 
 从上到下，速度降低，存储空间变大，基于性价比考虑才做成这样
 
@@ -138,7 +138,7 @@ tags:
 
 ###  Cache
 
-![1551515791540](/assets/images/RuanKao_note/1551515791540.png)
+![1551515791540](https://assest.iaoe.xyz/img/1551515791540.png)
 
 * Cache的**命中率**
 
@@ -150,27 +150,27 @@ tags:
 
 ###  局部性原理
 
-![1551516215569](/assets/images/RuanKao_note/1551516215569.png)
+![1551516215569](https://assest.iaoe.xyz/img/1551516215569.png)
 
 ###  主存
 
 * 主存的分类
 
-  ![1551516276736](/assets/images/RuanKao_note/1551516276736.png)
+  ![1551516276736](https://assest.iaoe.xyz/img/1551516276736.png)
 
 * 主存的编址
 
-  ![1551517252539](/assets/images/RuanKao_note/1551517252539.png)
+  ![1551517252539](https://assest.iaoe.xyz/img/1551517252539.png)
 
 ###  磁盘结构与参数
 
-![1551518083498](/assets/images/RuanKao_note/1551518083498.png)
+![1551518083498](https://assest.iaoe.xyz/img/1551518083498.png)
 
-![1551518782638](/assets/images/RuanKao_note/1551518782638.png)
+![1551518782638](https://assest.iaoe.xyz/img/1551518782638.png)
 
 ##  总线系统
 
-![1551518817580](/assets/images/RuanKao_note/1551518817580.png)
+![1551518817580](https://assest.iaoe.xyz/img/1551518817580.png)
 
 * 内部总线——外围芯片和处理器之间的总线(芯片级)
 * 系统总线——插线板和系统板之间的中线（插件级别)VGA接口PCI接口
@@ -185,23 +185,23 @@ tags:
 
 * 串联系统
 
-  ![1551526159742](/assets/images/RuanKao_note/1551526159742.png)
+  ![1551526159742](https://assest.iaoe.xyz/img/1551526159742.png)
 
   比如说一个系统的失效率为0.0003，则它的无障碍运行时间为3333小时，用1/0.0003求得
 
 * 并联系统
 
-  ![1551526205070](/assets/images/RuanKao_note/1551526205070.png)
+  ![1551526205070](https://assest.iaoe.xyz/img/1551526205070.png)
 
-  ![1551527214558](/assets/images/RuanKao_note/1551527214558.png)
+  ![1551527214558](https://assest.iaoe.xyz/img/1551527214558.png)
 
 * 模冗余系统
 
-  ![1551526348604](/assets/images/RuanKao_note/1551526348604.png)
+  ![1551526348604](https://assest.iaoe.xyz/img/1551526348604.png)
 
 * 混合系统
 
-  ![1551527318213](/assets/images/RuanKao_note/1551527318213.png)
+  ![1551527318213](https://assest.iaoe.xyz/img/1551527318213.png)
 
   
 
@@ -210,19 +210,19 @@ tags:
 
 ###  码距和检错和纠错
 
-![1551527593331](/assets/images/RuanKao_note/1551527593331.png)
+![1551527593331](https://assest.iaoe.xyz/img/1551527593331.png)
 
-![1551527778684](/assets/images/RuanKao_note/1551527778684.png)
+![1551527778684](https://assest.iaoe.xyz/img/1551527778684.png)
 
 ###  循环检验码CRC
 
 * 模2除法（使用异或）
 
-  ![1551527880209](/assets/images/RuanKao_note/1551527880209.png)
+  ![1551527880209](https://assest.iaoe.xyz/img/1551527880209.png)
 
 * 实例——生成的编码
 
-  ![1551528246643](/assets/images/RuanKao_note/1551528246643.png)
+  ![1551528246643](https://assest.iaoe.xyz/img/1551528246643.png)
 
   之后把传输后的码与多项式再次模2，结果为0即无错误
 
@@ -244,7 +244,7 @@ tags:
 
   收到的信息中提取信息位再次计算从而生成新的校验位，与收到信息中得信息位进行异或，如果异或得到001，则代表收到得信息的第一位是错的，需要更改
 
-  ![1551529316060](/assets/images/RuanKao_note/1551529316060.png)
+  ![1551529316060](https://assest.iaoe.xyz/img/1551529316060.png)
 
   
 

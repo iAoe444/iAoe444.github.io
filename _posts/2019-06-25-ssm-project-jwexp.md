@@ -656,7 +656,7 @@ package com.iaoe.jwExp.service;
 
 这里为了快速开发，直接在原有的案例基础上修改[SUI Mobile Demo](http://m.sui.taobao.org/demos/)，大致生成的页面如图，具体源码太大就不贴了
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4ee9rc0amj30ck0nj74m.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g4ee9rc0amj30ck0nj74m.jpg)
 
 ### (路由) Controller实现页面的跳转
 
@@ -697,7 +697,7 @@ package com.iaoe.jwExp.service;
 
    也就是说return回来的是`shop/shopoperation`这个路径，但是已经给它加了前后缀`/WEB-INF/html/`和`.html`了，所以能够顺利访问到这个页面
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIly1g4eeydcqwrj30u10cnab8.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIly1g4eeydcqwrj30u10cnab8.jpg)
 
 ### （前后端对接）Controller完成店铺注册功能
 
@@ -1264,7 +1264,7 @@ public class ShopCategoryDaoTest extends BaseTest{
    	}   
    ```
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4fsvup0inj31580q6acq.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g4fsvup0inj31580q6acq.jpg)
 
 ### Service层实现店铺编辑功能
 
@@ -1825,7 +1825,7 @@ public class ShopCategoryDaoTest extends BaseTest{
    	}
    ```
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4gmvnewa4j31g30p0n08.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4gmvnewa4j31g30p0n08.jpg)
 
 ### Service层实现店铺列表功能
 
@@ -1938,7 +1938,7 @@ public class ShopCategoryDaoTest extends BaseTest{
 
 2. 验证是否成功`http://localhost:8080/jwExp/shopadmin/getshoplist`
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4gopvw3m4j30u90cq0u5.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4gopvw3m4j30u90cq0u5.jpg)
 
 ### 前端显示店铺列表功能
 
@@ -2094,7 +2094,7 @@ public class ShopCategoryDaoTest extends BaseTest{
    	}
    ```
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4gpg7vqjuj30ca0nf74y.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4gpg7vqjuj30ca0nf74y.jpg)
 
 ### 前端显示店铺管理页面功能
 
@@ -2488,7 +2488,7 @@ public class ShopCategoryDaoTest extends BaseTest{
 
 6. 实现前端页面的显示，这里代码具体见Git或者实际工程上的`productcategorymanagement`的js和css，内容有点多我就不贴上来了
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4gxbgfxg4j314q0qggn4.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4gxbgfxg4j314q0qggn4.jpg)
 
 ### （批量添加）批量添加店铺列表功能后端实现
 
@@ -2741,7 +2741,7 @@ public class ShopCategoryDaoTest extends BaseTest{
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 ```
 
-![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4h3myagsuj30h209qwey.jpg)
+![](https://assest.iaoe.xyz/img/006bBmqIgy1g4h3myagsuj30h209qwey.jpg)
 
 这样在会按照方法名来执行顺序，依次是`testABatchInsertProductCategory`->`testBQueryByShopId`
 
@@ -2913,7 +2913,7 @@ public class ShopCategoryDaoTest extends BaseTest{
 
    这里由于有两类要删除的商品栏，一种是已经存在的商品分类，一种是用于新增的商品分类，两者的删除策略有所不同
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4h4vqaywyj30es09nwei.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4h4vqaywyj30es09nwei.jpg)
 
 ## 5. 商品功能的实现
 
@@ -4194,11 +4194,11 @@ $(function() {
 
 1. 选中代码右击->Refactor->Extract Method
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4ht5hr6cyj30ry0kzq57.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4ht5hr6cyj30ry0kzq57.jpg)
 
 2. 输入方法名，点击ok即可生成方法
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4ht6vhuluj30do0fkt8w.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4ht6vhuluj30do0fkt8w.jpg)
 
 ## 6. 开发剩余前端界面
 
@@ -4515,7 +4515,7 @@ $(function() {
    }
    ```
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4hvt6j9bcj30cs0ni752.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4hvt6j9bcj30cs0ni752.jpg)
 
 ### (Tomcat技巧) 如何将图片地址暴露出去
 
@@ -4523,7 +4523,7 @@ $(function() {
 
 1. 打开项目servers对应tomcat版本的`server.xml`
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4hvvkew5yj309q05mdfs.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4hvvkew5yj309q05mdfs.jpg)
 
 2. 到最下面输入
 
@@ -4531,7 +4531,7 @@ $(function() {
    <Context docBase="E:/jwExp/image/upload" path="/upload" />
    ```
 
-   ![](https://ws1.sinaimg.cn/large/006bBmqIgy1g4hvw8tz0dj30la06ft92.jpg)
+   ![](https://assest.iaoe.xyz/img/006bBmqIgy1g4hvw8tz0dj30la06ft92.jpg)
 
 3. 这样，你就可以通过`http://localhost:8080/upload/item/shop/2/2019062910043074313.png`这样的一个地址访问到你的图片了
 
@@ -4881,6 +4881,10 @@ $(function() {
     		return "frontend/shoplist";
     	}
     ```
+
+    
+
+   ```
 
     
 
